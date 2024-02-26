@@ -1,16 +1,21 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: E Coli Phenotype Prediction - Physics Informed Neural Network 
+  organization: Dissertation - University of Aberdeen
+  Description: <ul><li>Developed a Physics Informed Neural Network (PINN) model for predicting E. coli phenotypes, integrating biological principles with neural network architecture.</li><li>Leveraged diverse biological data including genetic, environmental, and biochemical factors to train the model, capturing complex relationships and enhancing prediction accuracy.</li><li>Utilized physics-based constraints within the neural network framework to incorporate domain knowledge and improve generalization capabilities.</li><li>Contributed to advancements in computational biology by providing a novel approach for phenotype prediction, bridging the gap between biological understanding and machine learning techniques.</li></ul>
+  Tech Stack: Python, Tensorflow, matplotlib, numpy, pandas
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Finance Assistant,(Generative AI) Personal Project
+  Description: <ul><li>Developed a finance assistant app with Plotly Dash, LangChain, and ChatGPT for real-time S&P 500 stock market insights.</li><li>Utilized API for fetching data, enriching financial information.</li><li>Implemented conversational interface using LangChain and ChatGPT, enabling interactive user queries.</li><li>Enhanced user experience and decision-making with intuitive data visualization and accessible financial info.</li></ul>
+
+- project: Shopping Cart Analysis - Coursework
+  Description: <ul><li>Analyzed 3 million grocery orders from 200,000+ Instacart users to uncover product associations.</li><li>Developed a machine learning model to predict user behavior and enhance targeted marketing strategies.</li><li>Explored optimization opportunities for marketing and aisle packaging based on customer behavior insights.</li></ul>
+
+- project: Article Analyzer, Personal Project
+  Description: <ul><li>Developed Article Analyzer project using Python and PyQt5 technology stack.</li><li>Implemented sentiment analysis and readability scoring algorithms, showcasing natural language processing expertise.</li><li>Utilized MVC architecture for a well-organized and scalable codebase in the project.</li></ul>
+  Tech Stack : Python, PyQt5
+
+- project: ISKCON Stock Inventory -  Android App
+  Description: <ul><li>Designed the database for a temple stock inventory system in a group project.</li><li>Collaborated with other team members to integrate the database into the Android app.</li></ul>
+  Tech Stack: SQL, Java, Git
