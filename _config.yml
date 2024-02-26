@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Prabhat Tiwari"
+description: "Prabhat's personal website and resume"
 
 # Build settings
 markdown: kramdown
@@ -23,7 +23,7 @@ resume_contact_address:         "Varanasi, Uttar Pradesh, India"
 resume_header_contact_info:     "Varanasi, Uttar Pradesh, India • +91 85307366333 • prabhat_twr@rediffmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>A highly motivated individual with a Master of Science degree in Artificial Intelligence from the University of Aberdeen, certified as a Tensorflow Developer, specializing in machine learning, data mining, and natural language processing. With hands-on experience in developing AI solutions, a strong passion exists for leveraging technology for positive societal impact. The goal is to driving innovation and contributing to positive change.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
