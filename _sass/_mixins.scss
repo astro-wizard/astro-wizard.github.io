@@ -51,7 +51,7 @@
 // type utilities
 
 @mixin sans {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 @mixin sans_light {
@@ -66,16 +66,16 @@
 
 @mixin sans_bold {
   @include sans;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 @mixin sans_extrabold {
   @include sans;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 @mixin serif {
-  font-family: "Lora", "Minion Pro", Palatino, Georgia, serif;
+  font-family: "Roboto Slab", Georgia, serif;
 }
 
 @mixin serif_regular {
@@ -91,13 +91,11 @@
 // layout
 
 @mixin section_border {
-  border-top: 4px solid #c7c7c7;
-  border-bottom: 2px solid #c7c7c7;
-  padding: .2rem 0 .4rem;
+  border-bottom: 1px solid #bdc3c7;
+  padding: .2rem 0 .8rem;
 }
 
 @mixin section_border_thin {
-  border-top: 1px solid #c7c7c7;
-  border-bottom: 1px solid #c7c7c7;
-  padding: .2rem 0 .2rem;
+  border-bottom: 1px solid #bdc3c7;
+  padding: .2rem 0 .4rem;
 }

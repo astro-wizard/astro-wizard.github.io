@@ -4,9 +4,11 @@
 $container-width: 980px !default;
 $grid-gutter:     10px !default;
 
-// Colors
+// Colors - Updated for scientific/academic look
 $white:             #fff;
-$black:             #333;
+$black:             #2c3e50;  // Darker blue-gray for text
+$accent:            #3498db;  // Clean blue for accents
+$border:            #bdc3c7;  // Lighter gray for borders
 
 // Styles
 $text_color:        $black;
